@@ -12,7 +12,7 @@
   
 💻 Desarrollador web en formación con conocimientos en HTML, CSS, JavaScript, PHP, Laravel, MySQL, Git y Githud
 
-🌱 Actualmente aprendiendo Laravel y trabajando en proyectos de desarrollo web y plugins
+🌱 Actualmente aprendiendo Laravel y trabajando en proyectos de desarrollo web
 
 📫 Contacto: **dtsenrique2000@gmail.com**
 <!--Intro end-->
@@ -23,7 +23,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,laravel,git,githud&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,laravel,git,github&perline=12" />
   </a>
 </p>
 <br>
