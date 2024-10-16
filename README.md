@@ -9,7 +9,9 @@
 
 <p align="left">
 🎓 Futuro Técnico Superior Universitario en Ánalisis y diseños de sistemas
+  
 💻 Desarrollador web en formación con conocimientos en HTML, CSS, JavaScript, PHP, Laravel, MySQL, Git y Githud
+
 🌱 Actualmente aprendiendo Laravel y trabajando en proyectos de desarrollo web y plugins
 
 📫 Contacto: **dtsenrique2000@gmail.com**
